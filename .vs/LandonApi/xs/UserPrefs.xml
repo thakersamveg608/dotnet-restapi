@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{7FD8D213-7EF4-46D0-80B3-C9CE08E96D6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LandonApi/Infrastructure/MappingProfile.cs">
+    <Files>
+      <File FileName="LandonApi/SeedData.cs" Line="28" Column="70" />
+      <File FileName="LandonApi/Program.cs" Line="23" Column="25" />
+      <File FileName="LandonApi/Controllers/RoomsController.cs" Line="34" Column="34" />
+      <File FileName="LandonApi/Models/Room.cs" Line="7" Column="1" />
+      <File FileName="LandonApi/Models/Resources.cs" Line="6" Column="1" />
+      <File FileName="LandonApi/Services/IRoomService.cs" Line="9" Column="12" />
+      <File FileName="LandonApi/Services/DefaultRoomService.cs" Line="27" Column="29" />
+      <File FileName="LandonApi/Startup.cs" Line="35" Column="68" />
+      <File FileName="LandonApi/Infrastructure/MappingProfile.cs" Line="4" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LandonApi" expanded="True">
+            <Node name="LandonApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True">
+                <Node name="MappingProfile.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LandonApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
